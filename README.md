@@ -1,7 +1,3 @@
-Here’s a **README.md** file for your GitHub repository:  
-
----
-
 ## **User Authentication API** 🚀  
 A simple **user authentication system** using **Express.js, MongoDB, and JWT**.  
 
